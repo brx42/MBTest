@@ -1,3 +1,3 @@
-SELECT product.name, category.name
-FROM category
-LEFT JOIN product ON category.code = product.code
+SELECT p.name, c.name
+FROM product p
+LEFT JOIN category c ON p.category_id = c.id
