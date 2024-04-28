@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FigureCalculations</name>
+    </assembly>
+    <members>
+        <member name="T:FigureCalculations.Implementations.Circle">
+            <summary>
+            Объект круга
+            </summary>
+        </member>
+        <member name="P:FigureCalculations.Implementations.Circle.Radius">
+            <summary>
+            Радиус окружности.
+            </summary>
+        </member>
+        <member name="M:FigureCalculations.Implementations.Circle.GetArea">
+            <inheritdoc />
+        </member>
+        <member name="M:FigureCalculations.Implementations.Circle.GetAreaAsync">
+            <inheritdoc />
+        </member>
+        <member name="T:FigureCalculations.Implementations.Triangle">
+            <summary>
+            Объект треугольника
+            </summary>
+        </member>
+        <member name="P:FigureCalculations.Implementations.Triangle.SideA">
+            <inheritdoc />
+        </member>
+        <member name="P:FigureCalculations.Implementations.Triangle.SideB">
+            <inheritdoc />
+        </member>
+        <member name="P:FigureCalculations.Implementations.Triangle.SideC">
+            <inheritdoc />
+        </member>
+        <member name="P:FigureCalculations.Implementations.Triangle.IsRightTriangle">
+            <inheritdoc />
+        </member>
+        <member name="T:FigureCalculations.Interfaces.ICircle">
+            <summary>
+            Интерфейс круга.
+            </summary>
+        </member>
+        <member name="T:FigureCalculations.Interfaces.IFigure">
+            <summary>
+            Интерфейс фигуры.
+            </summary>
+        </member>
+        <member name="M:FigureCalculations.Interfaces.IFigure.GetArea">
+            <summary>
+            Получение площади фигуры.
+            </summary>
+            <returns>Площадь фигуры.</returns>
+        </member>
+        <member name="M:FigureCalculations.Interfaces.IFigure.GetAreaAsync">
+            <summary>
+            Получение площади фигуры асинхронно.
+            </summary>
+            <returns>Площадь фигуры.</returns>
+        </member>
+        <member name="T:FigureCalculations.Interfaces.ITriangle">
+            <summary>
+            Интерфейс треугольника
+            </summary>
+        </member>
+        <member name="P:FigureCalculations.Interfaces.ITriangle.SideA">
+            <summary>
+            Сторона A
+            </summary>
+        </member>
+        <member name="P:FigureCalculations.Interfaces.ITriangle.SideB">
+            <summary>
+            Сторона B
+            </summary>
+        </member>
+        <member name="P:FigureCalculations.Interfaces.ITriangle.SideC">
+            <summary>
+            Сторона C
+            </summary>
+        </member>
+        <member name="P:FigureCalculations.Interfaces.ITriangle.IsRightTriangle">
+            <summary>
+            Является ли треугольник прямоугольным
+            </summary>
+        </member>
+    </members>
+</doc>

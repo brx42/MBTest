@@ -1,0 +1,13 @@
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\bin\Debug\net8.0\FigureCalculations.deps.json
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\bin\Debug\net8.0\FigureCalculations.dll
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\bin\Debug\net8.0\FigureCalculations.pdb
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\bin\Debug\net8.0\FigureCalculations.xml
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.AssemblyInfoInputs.cache
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.AssemblyInfo.cs
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.dll
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\refint\FigureCalculations.dll
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.xml
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\FigureCalculations.pdb
+C:\Users\Bruix\RiderProjects\TestWork\FigureCalculations\obj\Debug\net8.0\ref\FigureCalculations.dll
