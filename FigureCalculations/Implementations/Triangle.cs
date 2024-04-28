@@ -53,8 +53,8 @@ public class Triangle : ITriangle
 
     private bool GetInfoAboutIsRightTriangle()
     {
-        return SideA == Math.Sqrt(Math.Pow(SideB, 2) + Math.Pow(SideC, 2))
-               || SideB == Math.Sqrt(Math.Pow(SideA, 2) + Math.Pow(SideC, 2))
-               || SideC == Math.Sqrt(Math.Pow(SideA, 2) + Math.Pow(SideB, 2));
+        return SideA * SideA + SideB * SideB == SideC * SideC ||
+               SideC * SideC + SideB * SideB == SideA * SideA ||
+               SideA * SideA + SideC * SideC == SideB * SideB;
     }
 }
